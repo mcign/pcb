@@ -1,5 +1,7 @@
 # MCIGN
 
+![layout](https://github.com/mcign/pcb/raw/master/layout.png)
+
 ## Introduction
 This PCB design is for a keyless motorcycle ignition controlled by a smartphone BLE app. The PCB is designed to be installed in a gutted ignition unit, resulting in a stock appearance. A BGM111 wireless modulecontrols the main board, and two relays are used to switch the power on and off. A auxillary relay board can be used for ignitions that require more than 2 relays.
 
